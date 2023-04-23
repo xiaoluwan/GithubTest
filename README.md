@@ -1,8 +1,3 @@
 # GithubTest
 hello word!
-66699
-66
-
-拉取
-
-＃完结
+修改测试
